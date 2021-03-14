@@ -1,4 +1,4 @@
-*Travel
-*Eat 
-*Sleep 
-*Do fun things 
+- Travel
+- Eat 
+- Sleep 
+- Do fun things 
